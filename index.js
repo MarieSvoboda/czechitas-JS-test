@@ -1,1 +1,1 @@
-achachach ochochoch
+import'./ukol1.js';
